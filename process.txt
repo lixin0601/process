@@ -1,0 +1,7 @@
+1. 初始化项目:
+        1.初始化项目描述文件 npm init -y;
+            会在项目的根目录下生成package.json文件
+        2.简历项目主文件;
+        3.下载express框架 npm install express --save
+         --save 将当前下载的第三方模块记录在项目描述文件中
+         4. 利用express创建web服务器
